@@ -1,0 +1,13 @@
+﻿<Project>
+  <Version>2.0</Version>
+  <FileID>ad122610-7840-4ed4-bbb9-26feb911ba9e</FileID>
+  <ProjectType>2</ProjectType>
+  <Folders />
+  <Files>
+    <File Build="1">.gitignore</File>
+    <File Build="2" Shared="False">autelis-pool-control-starter.ps1</File>
+  </Files>
+  <DeployMode>Project</DeployMode>
+  <PrimaryFile>
+  </PrimaryFile>
+</Project>

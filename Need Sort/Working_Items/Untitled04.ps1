@@ -1,0 +1,2 @@
+$lastSetdate = [DateTime]::Now - [TimeSpan]::Parse("90")
+Get-ADComputer -Filter {PasswordLastSet -le $lastSetdate} -Properties passwordLastSet -ResultSetSize $null | Format-Table samaccountname,PasswordLastSet

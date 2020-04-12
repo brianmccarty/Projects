@@ -1,0 +1,1 @@
+﻿(Get-ItemProperty -Path c:\windows\system32\hal.dll).VersionInfo.FileVersion

@@ -1,0 +1,12 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.0</Version>
+  <FileID>948dba2c-14f9-4971-8ccf-7ff47c9ff8dc</FileID>
+  <ProjectType>1</ProjectType>
+  <Folders />
+  <Files>
+    <File Build="2">O365AliasAddress.psd1</File>
+    <File Build="0">O365AliasAddress.psm1</File>
+    <File Build="1">.gitignore</File>
+  </Files>
+  <StartupScript>C:\Source\PowerShell Studio\Projects\O365AliasAddress\Test-Module.ps1</StartupScript>
+</Project>
